@@ -10,6 +10,7 @@ Clone the repository first and then you MUST initialize the submodules:
 
 ```bash
 git clone https://github.com/shi0rik0/perflame.git
+cd perflame
 git submodule update --init --recursive
 ```
 
